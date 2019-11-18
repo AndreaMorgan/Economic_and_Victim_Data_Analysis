@@ -6,4 +6,4 @@ All analysis was performed with Python, Pandas, Matplotlib, and Numpy.
 
 The overall summary of the analysis can be seen in the HOMICIDE PowerPoint Presentation.
 
-![Title Slide](../images/Title_Slide.png)
+![Title Slide](https://raw.githubusercontent.com/AndreaMorgan/Economic_and_Victim_Data_Analysis/master/Images/Title_Slide.png)
