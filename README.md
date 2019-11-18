@@ -23,8 +23,8 @@ Using Matplotlib and Numpy, charts were created and some had statistical tests i
 
 ![Relationship counts](https://github.com/AndreaMorgan/Economic_and_Victim_Data_Analysis/blob/master/Images/StackedBar_RelPctsState.png)
 
-![Pvalue](https://github.com/AndreaMorgan/Economic_and_Victim_Data_Analysis/blob/master/Images/HRates_by_Des_Pvalue.png)
+![Pvalue](https://github.com/AndreaMorgan/Economic_and_Victim_Data_Analysis/blob/master/Images/HRates_by_Des_Pvalue.png) ![PolMaps](https://github.com/AndreaMorgan/Economic_and_Victim_Data_Analysis/blob/master/Images/All_maps.png)
 
-![PolMaps](https://github.com/AndreaMorgan/Economic_and_Victim_Data_Analysis/blob/master/Images/All_maps.png)
+
 
 Later in the summer of 2019, the FBI updated their Crime Database, and we were able to dive deeper into homicide data.  [Click here to see our next project on Homicide in Tennessee.](https://github.com/AndreaMorgan/Machine_Learning_Homicide)
