@@ -23,7 +23,9 @@ Using Matplotlib and Numpy, charts were created and some had statistical tests i
 
 ![Relationship counts](https://github.com/AndreaMorgan/Economic_and_Victim_Data_Analysis/blob/master/Images/StackedBar_RelPctsState.png)
 
-![Pvalue](https://github.com/AndreaMorgan/Economic_and_Victim_Data_Analysis/blob/master/Images/HRates_by_Des_Pvalue.png) ![PolMaps](https://github.com/AndreaMorgan/Economic_and_Victim_Data_Analysis/blob/master/Images/All_maps.png)
+Maps of Homicide Rate by State (Size of Circle) and Political Designation (Color of Circle)
+![PolMaps](https://github.com/AndreaMorgan/Economic_and_Victim_Data_Analysis/blob/master/Images/All_maps.png)
+![Pvalue](https://github.com/AndreaMorgan/Economic_and_Victim_Data_Analysis/blob/master/Images/HRates_by_Des_Pvalue.png) 
 
 
 
