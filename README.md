@@ -14,3 +14,15 @@ Using Python, and Pandas we were able to pull data from the API and form into da
 ![Data cleanup 1](https://github.com/AndreaMorgan/Economic_and_Victim_Data_Analysis/blob/master/Images/Data_cleanup_1.png)
 
 ![Data cleanup 2](https://github.com/AndreaMorgan/Economic_and_Victim_Data_Analysis/blob/master/Images/Data_cleanup_2.png)
+
+Using Matplotlib and Numpy, charts were created and some had statistical tests included:
+
+![CountsByAge](https://github.com/AndreaMorgan/Economic_and_Victim_Data_Analysis/blob/master/Images/Counts_by_Age.png)
+
+![Unemployment vs Hom](https://github.com/AndreaMorgan/Economic_and_Victim_Data_Analysis/blob/master/Images/Men_Women_Unemployment.png)
+
+![Relationship counts](https://github.com/AndreaMorgan/Economic_and_Victim_Data_Analysis/blob/master/Images/StackedBar_RelPctsState.png)
+
+![Pvalue](https://github.com/AndreaMorgan/Economic_and_Victim_Data_Analysis/blob/master/Images/HRates_by_Des_Pvalue.png)
+
+![PolMaps](https://github.com/AndreaMorgan/Economic_and_Victim_Data_Analysis/blob/master/Images/All_maps.png)
